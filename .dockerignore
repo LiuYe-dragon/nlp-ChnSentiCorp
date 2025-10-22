@@ -1,0 +1,13 @@
+*__pycache__/
+*.ipynb
+*.ipynb_checkpoints
+*.png
+venv/
+.git/
+.gitignore/
+datasets/
+models/lstm_model.h5
+models/bert-base-chinese/
+models/bert_finetuned/*.zip*
+Dockerfile
+*.md
